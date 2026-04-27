@@ -35,8 +35,6 @@ Customer-Churn-EDA/
 │   └── Customer Churn.csv
 │── notebook/
 │   └── churn_analysis.ipynb
-│── images/
-│── README.md
 ```
 
 ---
